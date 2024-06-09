@@ -1,0 +1,43 @@
+#logo {
+    font-family: 'Aclonica', sans-serif;
+    font-size: 35px;
+    text-shadow: 3px 3px 3px rgb(149, 104, 104);
+  }
+  
+  body{
+    font-family: 'Alegreya',sans-serif;
+    font-size: 23px;
+  }
+  .nav-item:hover {
+    background-color: rgb(245, 248, 245);
+    border-radius: 100%;
+    opacity: 80%;
+  }
+  
+  .navbar {
+    background-color: cyan;
+  }
+  
+  #signin{
+    color: blue;
+  }
+  #signin:hover{
+    color:red;
+  }
+  
+  #form{
+    width: 500px;
+    position: relative;
+    font-size: medium;
+  }
+  
+  .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:cyan;
+    color: rgb(15, 5, 5);
+    text-align: center;
+    padding: 1%;
+    font-size: medium;
+  }
